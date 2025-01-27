@@ -1,2 +1,2 @@
-first test1
+A=10
 second
